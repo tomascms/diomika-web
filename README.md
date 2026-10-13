@@ -147,7 +147,3 @@ Automatic on push to `main`:
 ## License
 
 Proprietary. See LICENSE file.
-
----
-
-**Built by Tomás with ❤️ for precision and speed.**
